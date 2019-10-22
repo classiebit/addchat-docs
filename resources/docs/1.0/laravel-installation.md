@@ -19,6 +19,7 @@ AddChat can be installed via composer. Smooth... 🍻
 * Laravel version 5.5 / 5.6 / 5.7 / 5.8 / 6.x
 * Make sure to install AddChat package on a **Fresh** or **Existing** Laravel application. 
 * We also assume that you've setup the database.
+* If you're running MySql version older than < 5.7 then disable strict mode in Laravel `config/database.php` `'strict' => false`
 
 
 <a name="Install"></a>
@@ -66,7 +67,7 @@ AddChat can be installed via composer. Smooth... 🍻
 
         ```php
         <!-- 1. Addchat css -->
-        <link href="<?php echo asset('assets/addchat/css/addchat.min.css') ?>">
+        <link href="<?php echo asset('assets/addchat/css/addchat.min.css') ?>" rel="stylesheet">
         ```
     
     - Copy AddChat Widget code and paste it right after opening **&lt;body&gt;** tag
@@ -84,7 +85,10 @@ AddChat can be installed via composer. Smooth... 🍻
 
         ```php
         <!-- 3. AddChat JS -->
-        <script src="<?php echo asset('assets/addchat/js/addchat.min.js') ?>"></script>
+        <!-- Modern browsers -->
+        <script type="module" src="<?php echo asset('assets/addchat/js/addchat.min.js') ?>"></script>
+        <!-- Fallback support for Older browsers -->
+        <script nomodule src="<?php echo asset('assets/addchat/js/addchat-legacy.min.js') ?>"></script>
         ```
 
     >{warning} Please replace **&lt;php ?>** tag by **{{}}** curly brackets.
@@ -98,7 +102,7 @@ AddChat can be installed via composer. Smooth... 🍻
         <!-- **** your site other content **** -->
 
         <!-- 1. Addchat css -->
-        <link href="<?php echo asset('assets/addchat/css/addchat.min.css') ?>">
+        <link href="<?php echo asset('assets/addchat/css/addchat.min.css') ?>" rel="stylesheet">
 
     </head>
     <body>
@@ -117,7 +121,11 @@ AddChat can be installed via composer. Smooth... 🍻
 
 
         <!-- 3. AddChat JS -->
-        <script src="<?php echo asset('assets/addchat/js/addchat.min.js') ?>"></script>
+        <!-- 3. AddChat JS -->
+        <!-- Modern browsers -->
+        <script type="module" src="<?php echo asset('assets/addchat/js/addchat.min.js') ?>"></script>
+        <!-- Fallback support for Older browsers -->
+        <script nomodule src="<?php echo asset('assets/addchat/js/addchat-legacy.min.js') ?>"></script>
 
     </body>
     ```
@@ -125,6 +133,10 @@ AddChat can be installed via composer. Smooth... 🍻
 ---
 
 >{info} For Info, the `php artisan addchat:install` publishes AddChat assets to your application `public/assets` directory
+
+---
+
+>{info} `addchat.min.js` for modern browsers & `addchat-legacy.min.js` for older browsers. These will be used switched by the browsers automatically on the basis on `type="module"` & `nomodule`, you need to nothing.
 
 ---
 

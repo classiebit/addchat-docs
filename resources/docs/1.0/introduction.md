@@ -1,4 +1,15 @@
-# AddChat Lite
+# Introduction
+
+Welcome to AddChat Laravel & CodeIgniter Lite documentation.
+
+---
+
+![AddChat Lite - Laravel & CodeIgniter Chat Widget](https://addchat-docs.classiebit.com/images/eventmie-docs-banner-1.jpg "AddChat Lite - Laravel & CodeIgniter Chat Widget")
+
+
+> {info.fa-youtube} Here's a complete video tutorial guide for getting started quickly **[AddChat Laravel Academy](https://classiebit.com/academy/addchat-laravel/getting-started)** & **[AddChat CodeIgniter Academy](https://classiebit.com/academy/addchat-codeigniter/getting-started)** ✌️
+
+---
 
 ### All-in-one multi-purpose Chat Widget For Laravel & Codeigniter websites
 
@@ -7,18 +18,6 @@ AddChat is a new chatting friend of Laravel & Codeigniter. It's a standalone Cha
 <br>
 
 You get full source-code, hence AddChat lives and runs on your server/hosting including database. And therefore, you get complete privacy over your data. Either you're a big corporate sector or a small business. AddChat is for everyone.
-
----
-
->{primary} AddChat never modifies your existing database tables or records. And it never breaks down any of your website functionality.
-
----
-
->{success} AddChat is fully tested and ready to be used in production websites. 
-
----
-
-> {info.fa-youtube} Here's a complete video tutorial guide for getting started quickly **[AddChat Laravel Academy](https://classiebit.com/academy/addchat-laravel/getting-started)** & **[AddChat CodeIgniter Academy](https://classiebit.com/academy/addchat-codeigniter/getting-started)** ✌️
 
 
 - [Overview](#Overview)
@@ -56,6 +55,16 @@ Some of the key highlights, why you would like to go with AddChat!
 - Easy to install & update
 - Use existing users database
 - Multi-purpose, use it as Helpdesk, Customer support, User-to-user chatting and much more...
+
+---
+
+>{primary} AddChat never modifies your existing database tables or records. And it never breaks down any of your website functionality.
+
+---
+
+>{success} AddChat is fully tested and ready to be used in production websites. 
+
+---
 
 
 <a name="Technical-Specification"></a>
