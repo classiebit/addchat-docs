@@ -4,7 +4,7 @@ AddChat CodeIgniter supports multiple languages.
 
 ---
 
-![multi-language](https://anofie-docs.classiebit.com/images/multi-language.jpg "multi-language")
+![Addchat Multi-language](https://addchat-docs.classiebit.com/images/multi-langauge.jpg "Multi-language")
 
 ---
 

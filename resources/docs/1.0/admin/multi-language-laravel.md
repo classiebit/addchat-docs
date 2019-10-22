@@ -4,7 +4,7 @@ AddChat Laravel supports multiple languages.
 
 ---
 
-![Multi-language](https://eventmie-docs.classiebit.com/images/multi-langauge.jpg "Multi-language")
+![Addchat Multi-language](https://addchat-docs.classiebit.com/images/multi-langauge.jpg "Multi-language")
 
 ---
 

@@ -4,7 +4,7 @@ AddChat CodeIgniter comes with an installer that makes the installation process 
 
 ---
 
-![AddChat CodeIgniter Installer](https://anofie-docs.classiebit.com/images/installer-lite-1.jpg "AddChat CodeIgniter Installer")
+![AddChat CodeIgniter Installer](https://addchat-docs.classiebit.com/images/addchat-codeigniter-lite-installer.jpg "AddChat CodeIgniter Installer")
 
 
 > {info.fa-youtube} Here's a complete video tutorial guide for getting started quickly **[AddChat CodeIgniter Academy](https://classiebit.com/academy/addchat-codeigniter/getting-started)** ✌️

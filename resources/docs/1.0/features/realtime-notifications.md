@@ -2,6 +2,13 @@
 
 AddChat comes with a custom **Internal** notification system for chatting in realtime. 
 
+--- 
+
+![Addchat Real-time Conversations](https://addchat-docs.classiebit.com/images/realtime-notification.jpg "Addchat Real-time Conversations")
+
+---
+
+
 <br>
 
 **Internal** notification is a custom real-time notification system built using VueJs, which does not require any additional server setup. It works smoothly behind the scenes.

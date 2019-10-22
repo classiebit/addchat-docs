@@ -2,6 +2,12 @@
 
 Manage AddChat global settings here.
 
+--- 
+
+![Addchat Admin Panel Settings](https://addchat-docs.classiebit.com/images/addchat-lite-settings.jpg "Addchat Admin Panel Settings")
+
+---
+
 >{primary} To visit `Admin Panel` click on profile icon and then click <larecipe-button type="white">Admin Panel</larecipe-button>
 
 - [General](#General)

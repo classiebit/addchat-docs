@@ -2,7 +2,6 @@
 
 Users can search for other online users on the website & start chatting with them.
 
-
 - [Send Message](#Send-message)
 - [Search Users](#Search-Users)
 
