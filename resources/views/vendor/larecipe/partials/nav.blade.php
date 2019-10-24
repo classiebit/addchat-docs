@@ -27,7 +27,7 @@
                 </larecipe-button>
             @endif
 
-            <larecipe-button tag="a" href="#" target="__blank" type="black" class="mx-2 px-4">
+            <larecipe-button tag="a" href="https://github.com/classiebit/addchat-laravel" target="__blank" type="black" class="mx-2 px-4">
                 <i class="fab fa-github"></i>
             </larecipe-button>
 
