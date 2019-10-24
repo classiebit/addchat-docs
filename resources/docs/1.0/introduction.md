@@ -4,7 +4,7 @@ Welcome to AddChat Laravel & CodeIgniter Lite documentation.
 
 ---
 
-![AddChat Lite - Laravel & CodeIgniter Chat Widget](https://addchat-docs.classiebit.com/images/eventmie-docs-banner-1.jpg "AddChat Lite - Laravel & CodeIgniter Chat Widget")
+![AddChat Lite - Laravel & CodeIgniter Chat Widget](https://addchat-docs.classiebit.com/images/addchat-docs-banner-1.jpg "AddChat Lite - Laravel & CodeIgniter Chat Widget")
 
 
 > {info.fa-youtube} Here's a complete video tutorial guide for getting started quickly **[AddChat Laravel Academy](https://classiebit.com/academy/addchat-laravel/getting-started)** & **[AddChat CodeIgniter Academy](https://classiebit.com/academy/addchat-codeigniter/getting-started)** ✌️

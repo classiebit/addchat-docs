@@ -1,4 +1,4 @@
-# Installation
+# Laravel Installation
 
 AddChat can be installed via composer. Smooth... 🍻
 
