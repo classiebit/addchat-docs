@@ -14,7 +14,11 @@ You get full source-code, hence AddChat lives and runs on your server/hosting in
 
 ---
 
-#### Must read the documentation for getting started - [AddChat Laravel & Codeigniter Docs](https://addchat-docs.classiebit.com)
+#### Read the documentation live - [AddChat Lite - Laravel & Codeigniter Docs](https://addchat-docs.classiebit.com)
+
+#### Live Preview - [AddChat Laravel Lite](https://addchat-laravel.classiebit.com)
+
+#### Live Preview - [AddChat Codeigniter Lite](https://addchat-codeigniter.classiebit.com)
 
 ---
 
