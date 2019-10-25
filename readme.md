@@ -1,6 +1,16 @@
-# Introduction
+# AddChat Lite - Laravel & Codeigniter Docs
 
-Welcome to AddChat Laravel & CodeIgniter Lite documentation.
+Welcome to AddChat Lite - Laravel & CodeIgniter documentation.
+
+
+### All-in-one multi-purpose Chat Widget For Laravel & Codeigniter websites
+
+AddChat is a new chatting friend of Laravel & Codeigniter. It's a standalone Chat widget that uses the website's existing `users` base, and let website users chat with each other. 
+
+<br>
+
+You get full source-code, hence AddChat lives and runs on your server/hosting including database. And therefore, you get complete privacy over your data. Either you're a big corporate sector or a small business. AddChat is for everyone.
+
 
 ---
 
@@ -15,14 +25,6 @@ Welcome to AddChat Laravel & CodeIgniter Lite documentation.
 > **Here's a complete video tutorial guide for getting started quickly [AddChat Laravel Academy](https://classiebit.com/academy/addchat-laravel/getting-started) & [AddChat CodeIgniter Academy](https://classiebit.com/academy/addchat-codeigniter/getting-started) ✌️**
 
 ---
-
-### All-in-one multi-purpose Chat Widget For Laravel & Codeigniter websites
-
-AddChat is a new chatting friend of Laravel & Codeigniter. It's a standalone Chat widget that uses the website's existing `users` base, and let website users chat with each other. 
-
-<br>
-
-You get full source-code, hence AddChat lives and runs on your server/hosting including database. And therefore, you get complete privacy over your data. Either you're a big corporate sector or a small business. AddChat is for everyone.
 
 
 ## Overview
@@ -107,7 +109,7 @@ AddChat is designed in **CSS Flexbox** and **Sass**. Let's see what's so special
 
 ## Multi-regional
 
-AddChat is compatible with all languages and timezones. AddChat auto adapts and adjust website's default timezone and language. Please refer to the Language section for more info about **adding a new language** in [AddChat Laravel](/{{route}}/{{version}}/admin/multi-language-laravel) & [AddChat CodeIgniter](/{{route}}/{{version}}/admin/multi-language-codeigniter)
+AddChat is compatible with all languages and timezones. AddChat auto adapts and adjust website's default timezone and language. Please refer to the Language section for more info about **adding a new language** in [AddChat Laravel](https://addchat-docs.classiebit.com/docs/1.0/admin/multi-language-laravel) & [AddChat CodeIgniter](https://addchat-docs.classiebit.com/docs/1.0/admin/multi-language-codeigniter)
 
 --- 
 
