@@ -164,7 +164,7 @@ AddChat is compatible with all languages and timezones. AddChat auto adapts and 
 
 
 
-<a name="credits"></a>
+<a name="Credits"></a>
 ## Credits
 
 To enhance the performance, security and scalability of AddChat, internally we've integrated some open-source third-party libraries/packages.

@@ -17,6 +17,7 @@ return [
         'route'   => '/docs',
         'path'    => '/resources/docs',
         'landing' => 'introduction',
+        'middleware' => ['web'],
     ],
 
     /*
@@ -70,7 +71,7 @@ return [
 
     'cache'       => [
         'enabled' => false,
-        'period'  => 0 // 7 days -- value in minutes
+        'period'  => 5
     ],
 
     /*
@@ -112,7 +113,7 @@ return [
     |
     */
 
-    'ui'                 => [
+     'ui'                 => [
         'code_theme'     => 'dark', // or: light
         'fav'            => 'logo.png',     // eg: fav.png
         'fa_v4_shims'    => true, // Add FontAwesome v4 shims prevent BC break
