@@ -103,7 +103,7 @@ AddChat is designed in **CSS Flexbox** and **Sass**. Let's see what's so special
         * Small phones
         * Android Phones
         * iPhones
-        * iPad & iPad Pro0
+        * iPad & iPad Pro
         * Small-Medium Size Laptops
         * Large Desktops
 
