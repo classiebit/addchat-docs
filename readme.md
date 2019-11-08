@@ -113,7 +113,7 @@ AddChat is designed in **CSS Flexbox** and **Sass**. Let's see what's so special
 
 ## Multi-regional
 
-AddChat is compatible with all languages and timezones. AddChat auto adapts and adjust website's default timezone and language. Please refer to the Language section for more info about **adding a new language** in [AddChat Laravel](https://addchat-docs.classiebit.com/docs/1.0/admin/multi-language-laravel) & [AddChat CodeIgniter](https://addchat-docs.classiebit.com/docs/1.0/admin/multi-language-codeigniter)
+AddChat is compatible with all languages and timezones. AddChat auto adapts and adjust regional settings according to your website's default timezone and language. Please refer to the Language section for more info about **adding a new language** in [AddChat Laravel](https://addchat-docs.classiebit.com/docs/1.0/admin/multi-language-laravel) & [AddChat CodeIgniter](https://addchat-docs.classiebit.com/docs/1.0/admin/multi-language-codeigniter)
 
 --- 
 
